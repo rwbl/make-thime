@@ -3,7 +3,7 @@
 # Objectives
 * To display the time or the temperature & humidity, packed in a LEGO ® case.
 
-img:thime-case.png
+![thime-case](https://user-images.githubusercontent.com/47274144/52938631-725cb280-3362-11e9-8f9e-697b81218b34.png)
 
 ## Solution
 ### Display
@@ -47,7 +47,7 @@ _Notes_
 * B4R 1.8.0 or higher
 
 ## Wiring
-img:thime_bb.png
+![thime_bb](https://user-images.githubusercontent.com/47274144/52938630-71c41c00-3362-11e9-93e2-abe14f3ce144.png)
 
 ```
 LED Display = Arduino
