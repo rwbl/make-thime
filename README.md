@@ -65,3 +65,6 @@ VCC = 5v (red)
 GND = GND (black)
 (WireColors)
 ```
+
+## Soure Code
+The [B4R](https://www.b4x.com/b4r.html) source code can be found in thime.zip. The code is well documented.
