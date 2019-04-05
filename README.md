@@ -67,4 +67,4 @@ GND = GND (black)
 ```
 
 ## Soure Code
-The [B4R](https://www.b4x.com/b4r.html) source code can be found in thime.zip. The code is well documented.
+The [B4R](https://www.b4x.com/b4r.html) source code and required libraries can be found in archive __thime.zip__. The code is well documented.
