@@ -1,7 +1,8 @@
-# make_project_thime
+# make_thime
 
 # Objectives
-* To display the time or the temperature & humidity, packed in a LEGO ® case.
+This make project displays the time or the temperature & humidity, packed in a LEGO ® case.
+(LEGO is a trademark of the LEGO Group)
 
 ![thime-case](https://user-images.githubusercontent.com/47274144/52938631-725cb280-3362-11e9-8f9e-697b81218b34.png)
 
@@ -40,7 +41,7 @@ _Notes_
 * 1x DHT22 temperature & humidity sensor (8 EUR)
 * 1x IR Receiver with Remote Control (4 EUR)
 * In addition for the prototype: Breadboard (2 EUR)
-* LEGO bricks [LEGO is a trademark of the LEGO Group] (10 EUR)
+* LEGO bricks (10 EUR)
 
 ## Software
 * Arduino IDE 1.8.0 or higher
